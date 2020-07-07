@@ -1,4 +1,4 @@
-Api endpoints:
+Api endpoints: \n
 signup:->  (POST) /register
 login:->   (POST) /login
 logout:->  (GET) /logout
